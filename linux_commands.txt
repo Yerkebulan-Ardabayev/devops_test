@@ -1,1 +1,4 @@
  
+mkdir devops_test
+echo. > devops_test\readme.txt
+cd
